@@ -1,2 +1,2 @@
 # beginning-html
-This repository will be used for code writing (learning)
+This repository will be used for code writing
